@@ -3,7 +3,7 @@ Trading app for a dev workshop
 
 
 ## Event Design
-[l=Trading App Event Portal Designer](https://console.solace.cloud/event-designer/domains/2mbq7gl8bw4v)
+[Trading App Event Portal Designer](https://console.solace.cloud/event-designer/domains/2mbq7gl8bw4v)
 
 ## Application Components
 
